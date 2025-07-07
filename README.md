@@ -34,6 +34,13 @@ This repository serves as a documentation archive for our structured study and i
 
 ---
 
+> **Primary Collaborators**:  
+> - **Muaz Islam Babar** — Student 
+> - **Basit Ali** — Partner in study 
+> - Another collaborator will arrive soon
+
+---
+
 ## 📖 Access & Usage Rights
 
 All content in this repository is made publicly visible **for educational reference only**.
