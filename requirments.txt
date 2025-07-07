@@ -1,5 +1,2 @@
-Python Dependencies
-
-pip
-pipenv
-numpy
+# Scientific computing
+numpy==1.26.4
