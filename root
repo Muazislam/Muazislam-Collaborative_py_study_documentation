@@ -1,0 +1,25 @@
+project-root/
+│
+├── README.md              # Project overview
+├── LICENSE                # License info (e.g., MIT, Apache)
+├── requirements.txt       # Python dependencies
+│
+├── src/                   # Source code and study notes
+│   ├── __init__.py        # Makes it a package (if needed)
+│   ├── python_basics/
+│   │   ├── __init__.py
+│   │   ├── data_types.py
+│   │   ├── type_conversion.py
+│   │   ├── boolean_logic.py
+│   │   ├── variables_memory.py
+│   │   └── README.md      # Markdown notes and explanations
+│   └── ...
+│
+├── notes/                 # Markdown notebooks
+│   ├── 01_data_types.md
+│   ├── 02_type_conversion.md
+│   ├── 03_boolean_logic.md
+│   └── 04_memory_model.md
+│
+└── tests/                 # Unit tests (optional)
+    └── test_data_types.py
