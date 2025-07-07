@@ -1,11 +1,45 @@
-Copyright © 2025 Muaz Islam Babar
+# View-Only Collaboration License v1.0
+© 2025 Muaz Islam Babar, Basit Ali
 
-All rights reserved.
+---
 
-Permission is granted to view this code for personal, non-commercial, and educational purposes only.
+## 1. Permissions
 
-You may not copy, modify, distribute, sublicense, or use any part of this code in any software or derivative work.
+- The repository is **publicly viewable** on GitHub and related archival platforms.
+- Any individual may read or study the contents for non-commercial educational insight, without reproduction or redistribution.
 
-Unauthorized use, reproduction, or distribution is strictly prohibited.
+## 2. Restrictions
 
-For inquiries, contact: [muazislambabar@gmail.com]
+Unless you are a recognized collaborator explicitly listed by the repository maintainers:
+
+- You **may not** clone, fork, modify, or reuse this codebase in whole or in part.
+- You **may not** submit pull requests or derivative works.
+- You **may not** integrate or embed any part of the code into external platforms, systems, or tutorials.
+- You **may not** use this code in assignments, coursework, or publications without written permission.
+
+## 3. Collaborator Rights
+
+Official collaborators have:
+
+- Full read/write/modify rights to the codebase
+- The ability to contribute new modules, fix issues, and propose structural enhancements
+- The obligation to follow the documented architectural and documentation conventions
+
+## 4. Enforcement
+
+Violation of these terms constitutes a breach of license and may result in:
+- DMCA takedown notices
+- Public reporting to GitHub and affiliated institutions
+- Legal action under international copyright statutes
+
+---
+
+## 5. Attribution
+
+This repository is the intellectual property of:
+
+- **Muaz Islam Babar**
+- **Basit Ali**
+
+Additional collaborators will be listed in `README.md` or `CONTRIBUTORS.md` as formally onboarded.
+
