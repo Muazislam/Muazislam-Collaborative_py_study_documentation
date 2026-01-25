@@ -106,3 +106,45 @@ Interpolation is the process of embeding variable values inside a string.
 In python, it is most commonly done using f-string.
 f"Hello {var_1}"
 Here. the value of the name is evaluated and inserted into the string at runtime.
+
+---
+
+#### What is sys.maxsize --and Why Platform size matter?
+
+The maximum size in elements that python containers can theoretically hold on a given platform.
+
+##### Platform Relevance
+| Platform | `sys.maxsize` |
+|----------|---------------|
+| 32-bit   | 2^31-1        |
+| 64-bit   | 2^63-1        |
+
+##### Why developers care
+- Determines maximum container sizes.
+- Affects:
+      - Large Datasets
+      - Memory-intensive application
+      - Scientific Computing
+      - System-level python extensions
+This is about memory addressing, not python syntax.
+
+--------
+
+#### What is a Frozen set?
+An immutable (unchangeable) version of a set.
+
+##### Properties
+- No adding or removing elements
+- Hashable (can be used as dictionary keys)
+- Elements must be unique.
+
+Example:
+```
+fs = frozenset([1,2,3])
+len(fs)                 # 3
+
+
+# fs.add(4)     Error, A frozen set is immutable.
+```
+
+------
