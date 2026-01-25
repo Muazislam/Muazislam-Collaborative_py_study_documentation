@@ -23,6 +23,7 @@ Terminology:
 An item is a single element contained within a data structure, as defined by that structure's iteration rules.
 
 | object type | What len() counts   |
+|-------------|---------------------|
 | `str`       | Uni code character  |
 | `list`      | Elements            |
 | `tuple`     | Elements            |
