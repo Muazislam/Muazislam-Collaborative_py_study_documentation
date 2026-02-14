@@ -180,7 +180,7 @@ This step often catches bugs *before the code exists*.
 
 ---
 
-## VII. Why This Framework Matters
+## VII. Why This Framework Matters (Reasoning)
 
 This approach:
 
